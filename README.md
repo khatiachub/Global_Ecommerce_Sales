@@ -33,4 +33,8 @@ before <img width="1035" height="557" alt="optimization1" src="https://github.co
 after <img width="1033" height="548" alt="opt3" src="https://github.com/user-attachments/assets/b417486e-ba13-43d3-95cf-6df022e4aca4" />
 <img width="1043" height="550" alt="opt2" src="https://github.com/user-attachments/assets/fec1eb63-589c-423e-9827-faf1aa9b6310" />
 
+<img width="756" height="425" alt="2" src="https://github.com/user-attachments/assets/4f4cfb61-9557-457b-a15b-86360ee4f66e" />
+<img width="870" height="488" alt="4" src="https://github.com/user-attachments/assets/e059f159-9076-4268-8c05-de74723db6f6" />
+<img width="879" height="488" alt="3" src="https://github.com/user-attachments/assets/000cb530-5a19-4a0e-bc09-981ec03fd9bc" />
+<img width="760" height="427" alt="1" src="https://github.com/user-attachments/assets/8e1d9f30-7fd9-4c0b-a239-1f71507fcb45" />
 
